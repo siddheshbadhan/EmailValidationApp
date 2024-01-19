@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Email Validation and Verification</string>
+    <string name="emailHint">Enter Email ID</string>
+    <string name="submitStr">Submit</string>
+    <string name="resetStr">Reset</string>
+
+
+</resources>
